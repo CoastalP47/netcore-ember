@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ember.Api", "src\Ember.Api\Ember.Api.csproj", "{1CB0E91A-F913-4B73-BA56-5A304E5AA98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ember.Domain", "src\Ember.Domain\Ember.Domain.csproj", "{CAB98F36-26F3-497E-BB43-B6EBB5ED253D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ember.Infrastructure", "src\Ember.Infrastructure\Ember.Infrastructure.csproj", "{361C7B32-3249-4C16-BE70-14F545A7B5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB0E91A-F913-4B73-BA56-5A304E5AA98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB0E91A-F913-4B73-BA56-5A304E5AA98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB0E91A-F913-4B73-BA56-5A304E5AA98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB0E91A-F913-4B73-BA56-5A304E5AA98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB98F36-26F3-497E-BB43-B6EBB5ED253D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB98F36-26F3-497E-BB43-B6EBB5ED253D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB98F36-26F3-497E-BB43-B6EBB5ED253D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB98F36-26F3-497E-BB43-B6EBB5ED253D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361C7B32-3249-4C16-BE70-14F545A7B5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361C7B32-3249-4C16-BE70-14F545A7B5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361C7B32-3249-4C16-BE70-14F545A7B5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361C7B32-3249-4C16-BE70-14F545A7B5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

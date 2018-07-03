@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Ember.Domain\obj\Ember.Domain.csproj.nuget.cache" />
+    <None Remove="Ember.Domain\obj\Debug\netcoreapp2.1\Ember.Domain.assets.cache" />
+  </ItemGroup>
+</Project>
