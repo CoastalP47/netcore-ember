@@ -59,6 +59,7 @@
         </e>
         <e p="Repository" t="Include">
           <e p="Repository.cs" t="Include" />
+          <e p="ShirtRepository.cs" t="Include" />
         </e>
       </e>
     </e>
